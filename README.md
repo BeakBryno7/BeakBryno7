@@ -8,8 +8,7 @@
 
 
  <p align="center">
-    <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,8 +17,8 @@
 </p>
 
 <p>
-  <img width="334" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=startpage&theme=react&bg_color=272727&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="334" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=personal-files&theme=react&bg_color=272727&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="220" style="float:right;width:42px;height:42px;" src="https://github.com/BeakBryno7/startpage/blob/master/img/side12.gif">
+  <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=startpage&theme=react&bg_color=272727&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="https://github.com/">
+  <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=personal-files&theme=react&bg_color=272727&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  <img width="150" style="float:right" src="https://github.com/BeakBryno7/startpage/blob/master/img/side12.gif">
 </p>
   
