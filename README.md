@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 <br>
-![backtrack](https://user-images.githubusercontent.com/22396923/174003686-042834b1-6e70-484b-a355-f1183f4b8dd5.png)
 
 <p>
+ <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=startpage&theme=react&bg_color=272727&title_color=00aeff&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
   <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=personal-files&theme=react&bg_color=272727&title_color=00aeff&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
