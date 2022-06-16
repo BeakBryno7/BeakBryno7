@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=personal-files&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=startpage&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
 </p>
