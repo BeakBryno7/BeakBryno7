@@ -13,3 +13,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=personal-files&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beakbryno7&repo=startpage&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beakbryno7&layout=compact&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff"">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=beakbryno7">
+  </p>
+  
