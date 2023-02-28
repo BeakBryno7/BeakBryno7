@@ -1,8 +1,6 @@
-
    <p align="center"><img width="500" src="https://i.pinimg.com/originals/0f/59/36/0f5936ee9037876e4b4f79eb7755ed1b.gif"></p>
    <h2 align="center">This is a readme page or something I dunno</h2>
  <div align="center">
-
    ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
