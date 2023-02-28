@@ -1,18 +1,16 @@
 
    <p align="center"><img width="500" src="https://i.pinimg.com/originals/0f/59/36/0f5936ee9037876e4b4f79eb7755ed1b.gif"></p>
    <h2 align="center">This is a readme page or something I dunno</h2>
-   <p align="center">
-      <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   </p>
+ <div align="center">
+
+   ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+</div>
    <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaffeineOnIce&repo=startpage&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
-   </p>
-   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaffeineOnIce&layout=compact&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
    </p>
-
