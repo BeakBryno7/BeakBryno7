@@ -21,7 +21,7 @@
 <img src="https://readmestats.999857.xyz/api/pin/?username=CaffeineOnIce&repo=Pic.0&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
    </a>
    <div align="center" style="display: flex; flex-direction: row">
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=CaffeineOnIce&theme=react&hide_border=false" />
+  <a style="pointer-events: none;"> <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=CaffeineOnIce&theme=react&hide_border=false" /> </a>
  <img class="img" src="https://readmestats.999857.xyz/api?username=CaffeineOnIce&theme=react&hide_border=false&include_all_commits=true&count_private=false" />
  <img class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=CaffeineOnIce&theme=react&hide_border=false&layout=compact" />
    </div>
