@@ -14,7 +14,9 @@
 
 </div>
    <p align="center">
+   <a href="https://github.com/CaffeineOnIce/Pic.0">
       <img src="https://readmestats.999857.xyz/api/pin/?username=CaffeineOnIce&repo=startpage&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
+   </a>
 <img src="https://readmestats.999857.xyz/api/pin/?username=CaffeineOnIce&repo=Pic.0&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
 
    <div align="center" style="display: flex; flex-direction: row;">
