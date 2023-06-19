@@ -1,5 +1,5 @@
    <p align="center"><img width="500" src="https://i.pinimg.com/originals/0f/59/36/0f5936ee9037876e4b4f79eb7755ed1b.gif"></p>
-   <h2 align="center">This is a readme page or something I dunno</h2>
+   <h2 align="center">Readme</h2>
    
    
  <div align="center">
