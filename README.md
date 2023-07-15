@@ -11,13 +11,13 @@
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+   ![Visitor Count](https://komarev.com/ghpvc/?username=CaffeineOnIce&color=blue&style=flat-square)
 
 </div>
 <p align="center">
    <a href="https://github.com/CaffeineOnIce/startpage">
       <img src="https://readmestats.999857.xyz/api/pin/?username=CaffeineOnIce&repo=startpage&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
    </a>
-   ![](https://komarev.com/ghpvc/?username=CaffeineOnIce)
    <a href="https://github.com/CaffeineOnIce/Pic.0">
 <img src="https://readmestats.999857.xyz/api/pin/?username=CaffeineOnIce&repo=Pic.0&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
    </a>
