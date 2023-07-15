@@ -11,7 +11,7 @@
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-   ![Visitor Count](https://komarev.com/ghpvc/?username=CaffeineOnIce&color=blue&style=flat-square)
+   ![Visitor Count](https://komarev.com/ghpvc/?username=CaffeineOnIce&color=blue&style=for-the-badge)
 
 </div>
 <p align="center">
