@@ -15,7 +15,7 @@
 </div>
 <p align="center">
    <a href="https://github.com/CaffeineOnIce/startpage">
-      ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+      ![Profile View Counter](https://komarev.com/ghpvc/?username=/CaffeineOnIce)
       <img src="https://readmestats.999857.xyz/api/pin/?username=CaffeineOnIce&repo=startpage&bg_color=272727&title_color=00bbff&hide_border=true&icon_color=c8ff00&text_color=ffffff">
    </a>
    <a href="https://github.com/CaffeineOnIce/Pic.0">
