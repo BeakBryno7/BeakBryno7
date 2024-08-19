@@ -1,4 +1,4 @@
-   <p align="center"><img height="100px" src="https://i.pinimg.com/originals/0f/59/36/0f5936ee9037876e4b4f79eb7755ed1b.gif" style="width: 100%; object-fit: cover;"></p>
+   <p align="center"><img width src="https://i.pinimg.com/originals/0f/59/36/0f5936ee9037876e4b4f79eb7755ed1b.gif" style="width: 100%;"></p>
    <h2 align="center">Readme</h2>
    
    
